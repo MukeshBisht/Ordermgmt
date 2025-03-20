@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureStorage": "UseDevelopmentStorage=true",
+    "QueueName": "order-paid",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
+  }
+}
